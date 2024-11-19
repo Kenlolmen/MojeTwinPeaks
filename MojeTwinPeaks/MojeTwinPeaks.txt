@@ -1,0 +1,14 @@
+1. Baza odcinków i sezonów
+*Przeglądarka odcinków: Lista wszystkich odcinków wraz z ich opisami, datami premiery, zwiastunami, kluczowymi momentami i spoilerami.
+*Wyszukiwanie odcinków: Użytkownicy mogą filtrować odcinki po sezonie, dacie premiery, tytule, czy kluczowych wydarzeniach.
+
+2. Postacie i ich biografie
+*Karty postaci: Szczegółowe profile bohaterów, ich historie, powiązania z innymi postaciami, a także ich rozwój na przestrzeni serialu.
+*Relacje postaci: Interaktywna mapa relacji między postaciami, pokazująca, jak ich historie się przeplatają.
+
+3. Quizy i gry związane z serialem
+*Quiz wiedzy: Użytkownicy mogą testować swoją wiedzę o serialu w interaktywnych quizach.
+*Mini-gry: Na przykład układanki z kadrami serialu, graficzne zagadki czy wybory moralne oparte na sytuacjach z serialu.
+
+4. Interaktywna mapa świata
+*Mapa miejsc akcji: Mapa przedstawiająca fikcyjne (lub prawdziwe) miejsca, w których rozgrywa się akcja serialu, z dodatkowymi informacjami o każdej lokacji.
