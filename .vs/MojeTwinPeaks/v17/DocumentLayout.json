@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\Book.cs",
+              "RelativeToolTip": "MojeTwinPeaks\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:27:58.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Music.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\Music.cs",
               "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\Music.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Place.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\Place.cs",
               "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\Place.cs",
@@ -56,28 +73,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Episode.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\Episode.cs",
               "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\Episode.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\Episode.cs",
               "RelativeToolTip": "MojeTwinPeaks\\Models\\Episode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T14:48:31.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Character.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\Character.cs",
               "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\Character.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\Character.cs",
               "RelativeToolTip": "MojeTwinPeaks\\Models\\Character.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T14:48:23.653Z"
+              "WhenOpened": "2024-11-19T14:48:23.653Z",
+              "EditorCaption": ""
             }
           ]
         }
