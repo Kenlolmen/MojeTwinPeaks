@@ -1,4 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Hosting.Server;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 namespace MojeTwinPeaks.Models
 {
@@ -8,7 +11,7 @@ namespace MojeTwinPeaks.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server = (localdb)\\MSSQLLocalDB; Database = MojeTwinPeaks; Trusted_Connection = true; MultipleActiveResultSets = true; ");
+            optionsBuilder.UseSqlServer("Dont be to curious");
         }
 
 
@@ -304,7 +307,7 @@ namespace MojeTwinPeaks.Models
                     Description = "The stars turn and a time presents itself.",
                     ReleaseDate = new DateTime(2017, 5, 21),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E2.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.6
                 },
                 new Episode
                 {
@@ -312,7 +315,7 @@ namespace MojeTwinPeaks.Models
                     Description = "Call for help.",
                     ReleaseDate = new DateTime(2017, 5, 21),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E3.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.4
                 },
                 new Episode
                 {
@@ -328,7 +331,7 @@ namespace MojeTwinPeaks.Models
                     Description = "Case files.",
                     ReleaseDate = new DateTime(2017, 6, 4),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E5.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.0
                 },
                 new Episode
                 {
@@ -336,7 +339,7 @@ namespace MojeTwinPeaks.Models
                     Description = "Don't die.",
                     ReleaseDate = new DateTime(2017, 6, 11),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E6.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.0
                 },
                 new Episode
                 {
@@ -344,7 +347,7 @@ namespace MojeTwinPeaks.Models
                     Description = "There's a body all right.",
                     ReleaseDate = new DateTime(2017, 6, 18),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E7.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.6
                 },
                 new Episode
                 {
@@ -352,7 +355,7 @@ namespace MojeTwinPeaks.Models
                     Description = "Got a light?",
                     ReleaseDate = new DateTime(2017, 6, 25),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E8.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.8
                 },
                 new Episode
                 {
@@ -360,14 +363,14 @@ namespace MojeTwinPeaks.Models
                     Description = "This is the chair.",
                     ReleaseDate = new DateTime(2017, 7, 9),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E9.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.3
                 },new Episode
                 {
                     ID = 40, SeasonID = 3, EpisodeNumber = 10, Title = "Part 10",
                     Description = "Laura is the one.",
                     ReleaseDate = new DateTime(2017, 7, 16),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E10.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.0
                 },
                 new Episode
                 {
@@ -375,7 +378,7 @@ namespace MojeTwinPeaks.Models
                     Description = "There's fire where you are going.",
                     ReleaseDate = new DateTime(2017, 7, 23),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E11.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.9
                 },
                 new Episode
                 {
@@ -383,7 +386,7 @@ namespace MojeTwinPeaks.Models
                     Description = "Let's rock.",
                     ReleaseDate = new DateTime(2017, 7, 30),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E12.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 7.6
                 },
                 new Episode
                 {
@@ -391,7 +394,7 @@ namespace MojeTwinPeaks.Models
                     Description = "What story is that, Charlie?",
                     ReleaseDate = new DateTime(2017, 8, 6),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E13.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.3
                 },
                 new Episode
                 {
@@ -399,7 +402,7 @@ namespace MojeTwinPeaks.Models
                     Description = "We are like the dreamer.",
                     ReleaseDate = new DateTime(2017, 8, 13),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E14.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.9
                 },
                 new Episode
                 {
@@ -407,7 +410,7 @@ namespace MojeTwinPeaks.Models
                     Description = "There's some fear in letting go.",
                     ReleaseDate = new DateTime(2017, 8, 20),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E15.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.7
                 },
                 new Episode
                 {
@@ -415,7 +418,7 @@ namespace MojeTwinPeaks.Models
                     Description = "No knock, no doorbell.",
                     ReleaseDate = new DateTime(2017, 8, 27),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E16.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 9.5
                 },
                 new Episode
                 {
@@ -423,7 +426,7 @@ namespace MojeTwinPeaks.Models
                     Description = "The past dictates the future.",
                     ReleaseDate = new DateTime(2017, 9, 3),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E17.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 9.4
                 },
                 new Episode
                 {
@@ -431,7 +434,7 @@ namespace MojeTwinPeaks.Models
                     Description = "What is your name?",
                     ReleaseDate = new DateTime(2017, 9, 3),
                     ImagePath = "https://twinpeaksimgstorage.blob.core.windows.net/episodesimages/S3E18.jpg",
-                    ImdbRating = 8.5
+                    ImdbRating = 8.7
                 }
 
             ); 
