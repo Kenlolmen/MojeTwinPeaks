@@ -10,12 +10,12 @@ namespace MojeTwinPeaks.Models
         public string BiographyPath { get; set; } = string.Empty;
         public string ImagePath { get; set; } = string.Empty;
         public GenderType Gender { get; set; }
-    }
-
-    public enum GenderType
-    {
-        Male,
-        Female,
-        Other
+        public string Actor { get; set; } = string.Empty;
+        public enum GenderType
+        {
+            Male,
+            Female,
+            Other
+        }
     }
 }

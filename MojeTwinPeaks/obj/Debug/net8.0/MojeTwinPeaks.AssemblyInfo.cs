@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MojeTwinPeaks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d02702aae83349876d6d85fbfe44670003bc5dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69260768e024352091f497b00eaf149b26cada60")]
 [assembly: System.Reflection.AssemblyProductAttribute("MojeTwinPeaks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MojeTwinPeaks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
