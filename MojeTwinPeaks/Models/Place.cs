@@ -4,7 +4,7 @@
     {
         public int ID { get; set; }
         public string Name { get; set; } = string.Empty;
-        public string DescriptionPath { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
         public PlaceType Type { get; set; }
         public string ImagePath { get; set; } = string.Empty;
     }
@@ -18,7 +18,8 @@
         Country,
         State,
         Bar,
-        Forrest
+        School,
+        Department
     }
     
 }

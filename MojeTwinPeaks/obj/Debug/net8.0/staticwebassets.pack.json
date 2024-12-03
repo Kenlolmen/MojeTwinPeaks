@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MojeTwinPeaks.bundle.scp.css",
-      "PackagePath": "staticwebassets\\MojeTwinPeaks.bundle.scp.css"
+      "PackagePath": "staticwebassets\\MojeTwinPeaks.bzjhbbq95z.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\wwwroot\\css\\site.css",
@@ -243,6 +243,10 @@
     {
       "Id": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MojeTwinPeaks.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MojeTwinPeaks.Microsoft.AspNetCore.StaticWebAssets.props",
