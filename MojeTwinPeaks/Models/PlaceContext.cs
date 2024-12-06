@@ -4,12 +4,15 @@ namespace MojeTwinPeaks.Models
 {
     public class PlaceContext : DbContext
     {
-        public DbSet<Place> Places { get; set; }
-
+        public PlaceContext(DbContextOptions<PlaceContext> options) : base(options) { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Dont be too curious");
+            optionsBuilder.UseSqlServer("-");
         }
+
+        public DbSet<Place> Places { get; set; }
+
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Place>().HasData(

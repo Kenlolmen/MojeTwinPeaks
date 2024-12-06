@@ -8,12 +8,14 @@ namespace MojeTwinPeaks.Models
 {
     public class MusicContext : DbContext
     {
+        public MusicContext(DbContextOptions<MusicContext> options) : base(options) { }
         public DbSet<Music> MusicTable { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Dont be to curious");
+            optionsBuilder.UseSqlServer("-");
         }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Music>().HasData(

@@ -7,13 +7,13 @@ namespace MojeTwinPeaks.Models
 {
     public class EpisodeContext : DbContext
     {
+        public EpisodeContext(DbContextOptions<EpisodeContext> options) : base(options) { }
         public DbSet<Episode> Episodes { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Dont be to curious");
+            optionsBuilder.UseSqlServer("-");
         }
-
 
         // Episodes Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)

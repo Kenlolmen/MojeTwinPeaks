@@ -1,0 +1,132 @@
+[
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.CharacterController",
+    "Method": "GetAllCharacters",
+    "RelativePath": "api/Character",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.CharacterController",
+    "Method": "GetCharactersId",
+    "RelativePath": "api/Character/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.EpisodeController",
+    "Method": "GetAllEpisodes",
+    "RelativePath": "api/Episode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.EpisodeController",
+    "Method": "GetEpisodesById",
+    "RelativePath": "api/Episode/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.MusicsController",
+    "Method": "GetAllMusics",
+    "RelativePath": "api/Musics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.MusicsController",
+    "Method": "GetMusicById",
+    "RelativePath": "api/Musics/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.PlaceController",
+    "Method": "GetAllPlaces",
+    "RelativePath": "api/Place",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.PlaceController",
+    "Method": "GetPlaceById",
+    "RelativePath": "api/Place/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.SeasonController",
+    "Method": "GetAllSeasons",
+    "RelativePath": "api/Season",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MojeTwinPeaks.Controllers.SeasonController",
+    "Method": "GetSeasonById",
+    "RelativePath": "api/Season/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

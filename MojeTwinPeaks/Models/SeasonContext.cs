@@ -7,12 +7,13 @@ namespace MojeTwinPeaks.Models
 {
     public class SeasonContext : DbContext
     {
-        DbSet<Season> Seasons { get; set; }
-
+        public SeasonContext(DbContextOptions<SeasonContext> options) : base(options) { }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Dont be to curious");
+            optionsBuilder.UseSqlServer("-");
         }
+        public DbSet<Season> Seasons { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Season>().HasData(
