@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\placecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\placecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\charactercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\charactercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\episodecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\episodecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\musiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\models\\seasoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\models\\seasoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|c:\\users\\lenovo\\source\\repos\\mojetwinpeaks\\mojetwinpeaks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE768D10-5FE7-42C8-9526-8306E99F85C1}|MojeTwinPeaks\\MojeTwinPeaks.csproj|solutionrelative:mojetwinpeaks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +38,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\appsettings.json",
+              "RelativeDocumentMoniker": "MojeTwinPeaks\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\appsettings.json",
+              "RelativeToolTip": "MojeTwinPeaks\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T16:14:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeasonContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\SeasonContext.cs",
+              "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\SeasonContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\SeasonContext.cs",
+              "RelativeToolTip": "MojeTwinPeaks\\Models\\SeasonContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:14:05.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\MusicContext.cs",
+              "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\MusicContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\MusicContext.cs",
+              "RelativeToolTip": "MojeTwinPeaks\\Models\\MusicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:13:50.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EpisodeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\EpisodeContext.cs",
+              "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\EpisodeContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\EpisodeContext.cs",
+              "RelativeToolTip": "MojeTwinPeaks\\Models\\EpisodeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:13:43.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\CharacterContext.cs",
+              "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\CharacterContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\CharacterContext.cs",
+              "RelativeToolTip": "MojeTwinPeaks\\Models\\CharacterContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T16:13:31.696Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,14 +113,14 @@
               "RelativeDocumentMoniker": "MojeTwinPeaks\\Models\\PlaceContext.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Models\\PlaceContext.cs",
               "RelativeToolTip": "MojeTwinPeaks\\Models\\PlaceContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T16:06:05.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MojeTwinPeaks\\MojeTwinPeaks\\Program.cs",
               "RelativeDocumentMoniker": "MojeTwinPeaks\\Program.cs",
@@ -43,8 +128,7 @@
               "RelativeToolTip": "MojeTwinPeaks\\Program.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T16:05:55.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T16:05:55.436Z"
             }
           ]
         }

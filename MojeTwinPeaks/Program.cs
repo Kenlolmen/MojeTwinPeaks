@@ -56,4 +56,4 @@ app.MapControllerRoute(
 
 app.Run();
 
-Console.WriteLine(builder.Configuration.GetConnectionString("Server=tcp:twin-peaks-server.database.windows.net,1433;Initial Catalog=TwinPeaksDB;Persist Security Info=False;User ID=ja55579;Password=iLOSnQ6a;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"));
+
